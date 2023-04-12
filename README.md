@@ -1,2 +1,2 @@
 # PrepCourse-Henry
-Este es un repositorio de prueba de prepCourse de henry
+Nelson salina Este proyecto es una preuba de com clonar un proyecto de github
